@@ -1,0 +1,26 @@
+{
+  "name": "BasicMapInfoWidget",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": "",
+  "author": "Sean",
+  "license": "ISC",
+  "scripts": {
+    "build": "esri-wab-build C:/Apps/Portable/WebAppBuilderForArcGIS/server/apps/3"
+  },
+  "devDependencies": {
+    "@types/arcgis-js-api": "^3.23.0",
+    "dojo-typings": "^1.11.9",
+    "esri-wab-build": "^1.0.1",
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.0.1",
+    "grunt-sync": "^0.8.0",
+    "grunt-ts": "^6.0.0-beta.21",
+    "node-sass": "^4.9.3",
+    "typescript": "^2.6.2"
+  }
+}
